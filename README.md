@@ -10,7 +10,7 @@
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/najlae-abarghache-a24725200#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/najlae-abarghache-a24725200#gh-dark-mode-only)
-&nbsp;&nbsp;cd
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
