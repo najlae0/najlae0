@@ -21,6 +21,7 @@
 <img align="left" alt="C sharp" width="26px" src="./img/c-sharp.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.webp" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="./img/cpp.png" style="padding-right:10px;" />
+<img align="left" alt="Php" width="26px" src="./img/php.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="./img/laravel.png" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="./img/angular.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
